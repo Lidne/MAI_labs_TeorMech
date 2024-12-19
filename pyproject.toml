@@ -10,6 +10,7 @@ python = "^3.12"
 matplotlib = "^3.9.2"
 sympy = "^1.13.2"
 pyqt6 = "^6.7.1"
+scipy = "^1.14.1"
 
 
 [build-system]
